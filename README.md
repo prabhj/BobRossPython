@@ -1,3 +1,5 @@
+#### (NOTE : Please click on the databricks link given on top of this page to access the project.)
+
 # Clustering Bob Ross' Paintings using K-means
 
 ## Background
